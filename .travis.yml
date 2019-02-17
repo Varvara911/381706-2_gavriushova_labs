@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../381706-2_savosina_labs
+  - cmake ../381706-2_gavriushova_labs
   - make -j
   - ./matrix_test/matrix_test
   - ./stack_test/stack_test
