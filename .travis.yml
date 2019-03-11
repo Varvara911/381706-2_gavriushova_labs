@@ -8,6 +8,6 @@ before_script:
 script:
   - cmake ../381706-2_gavriushova_lab
   - make -j
-  - ./arrlisttest/arrlisttest
+  - ./arithmetictest/arithmetictest
 notifications:
   email: false
