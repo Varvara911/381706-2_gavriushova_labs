@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../381706-2_Antipin_lab
+  - cmake ../381706-2_gavriushova_labs
   - make -j
   
 notifications:
